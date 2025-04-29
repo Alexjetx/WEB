@@ -141,7 +141,7 @@ function flipRandomCards(count) {
 function handleScenario(input) {
     switch (input) {
         case 1:
-            flipRandomCards( getRandomIndex(10));
+            flipRandomCards( getRandomIndex(24));
             break;
         case 2:
             flipRandomCards( getRandomIndex(9));

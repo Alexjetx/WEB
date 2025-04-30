@@ -207,6 +207,6 @@ function handleScenario(input) {
 }
 
 function getRandomIndex(max) {
-    return ((Math.random() * (max 1)1).toFixed(0));
+    return ((Math.random() * (max-0)-0).toFixed(0));
 }
 
